@@ -1,4 +1,4 @@
-# Boilerplate: Meteor 1.3 + Blaze
+# Boilerplate: Meteor 1.4 + Blaze
 
 Build with Flow Router, UserAccount:core, Bootstrap, Collection2, Autoform, Users Roles, Cluster Micro Services
 
